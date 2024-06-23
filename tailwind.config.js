@@ -37,9 +37,9 @@ module.exports = {
         tertiary: '0 20px 40px rgba(32, 56, 100, 0.3);',
       },
       backgroundImage: {
-        hero: "url('/images/hero/scene.svg')",
-        faq: "url('/images/faq/bg.svg')",
-        footer: "url('/images/footer/bg.svg')",
+        hero: "url('../public/images/hero/scene.svg')",
+        faq: "url('../public/images/faq/bg.svg')",
+        footer: "url('../public/images/footer/bg.svg')",
       },
     },
   },

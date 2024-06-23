@@ -2,7 +2,7 @@
   "name": "trafico",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ro-Rohit.github.io/trafico-starter/",
+  "homepage": "https://ro-rohit.github.io/trafico-starter/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
